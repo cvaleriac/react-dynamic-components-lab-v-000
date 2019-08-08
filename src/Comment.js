@@ -4,7 +4,7 @@ class Comment extends React.Component {
       return (
         <div className="comment">
           {this.props.commentText}
-        </div>  
+        </div>
       )
     }
 }
